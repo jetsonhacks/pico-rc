@@ -18,9 +18,9 @@ In order to run code in this repository, you will need to build the above Microp
 This is simply software sketches and subject to change.
 
 
-#Release Notes
+# Releases
 
-##August, 2022
+## August, 2022
 * Initial Release
 * PWMCounter.py by @phoreglad 
 
